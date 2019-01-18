@@ -31,3 +31,31 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+Notes on MarkDown:
+*italic* _italic_
+**bold** __bold__
+paragraph break \
+# heading 1
+## heading 2
+### heading 3
+> block quote
+>> nested even deeper
+> block quote
+*lista + -
+*listb
+1. list1 1)
+2. list2
+*item
+  -issue
+  -issue
+*item
+  -issue
+  -issue
+[text to display] (http://link.com)
+or
+[text to display][id]
+[id]:(http://link.com)
+images same ^
+`code` ```code```

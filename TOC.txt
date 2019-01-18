@@ -1,9 +1,9 @@
 Table of Contents
 
-|repo_standards|
+repo_standards
   |repo_readme_standards|
   |repo_name_standards|
 |commit_standards|
-|general_standards|
+general_standards
   |bitbucket_v_github|
   |tabs_v_spaces|
