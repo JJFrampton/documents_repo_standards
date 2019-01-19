@@ -1,0 +1,21 @@
+*repo_name_standards*
+
+repo name should be concise but descriptive enough to understand
+
+the identifiers should be orders in acending order of specificity
+ie:
+<course><area><>specific course>
+courses_machine_learning_andrew_ng
+courses_machine_learning_ibm
+
+the first word /term should be one of the groups used in the repos already
+so far the following are the established main groups
+
+documents [text books, notes, how-tos]
+courses [online courses, books, tutorials]
+projects [personal projects]
+configs [no sub repos yet]
+scripts [no sub repos yet]
+images [no sub repos yet]
+fonts [no sub repos yet]
+hg [hire ground repos]
