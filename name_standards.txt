@@ -14,6 +14,7 @@ so far the following are the established main groups
 documents [text books, notes, how-tos]
 courses [online courses, books, tutorials]
 projects [personal projects]
+algorithms [code fights, etc]
 configs [no sub repos yet]
 scripts [no sub repos yet]
 images [no sub repos yet]
