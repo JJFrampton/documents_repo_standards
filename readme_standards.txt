@@ -59,3 +59,7 @@ or
 [id]:(http://link.com)
 images same ^
 `code` ```code```
+linebreaks
+two spaces at end of line
+or<br/>
+can also use double line break, but that will include the empty line
